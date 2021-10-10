@@ -1,0 +1,9 @@
+This is fucking hard: [object Promise], [object Promise]
+This is fucking hard: [object Promise], [object Promise]
+This is fucking hard: [object Promise], [object Promise]
+This is fucking hard: Hello, Hello this is a second text
+This is fucking hard: Hello, Hello this is a second text
+This is fucking hard: Hello, Hello this is a second text
+This is fucking hard: Hello FIRST \n, Hello this is a second text
+This is fucking hard: Hello FIRST \n, Hello this is a second text
+This is fucking hard: Hello FIRST \n, Hello this is a second text
